@@ -1,5 +1,6 @@
 package com.mytoursntravels.dto;
 
-public class BaseDTO {
-
+public class BaseDTO {//
+	
+	
 }
